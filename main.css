@@ -34,3 +34,7 @@
   75% {margin-left: -300%;}
   100% {margin-left: -300%;}
 }
+.column {
+  float: left;
+  width: 50%;
+}
