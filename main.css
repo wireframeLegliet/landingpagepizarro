@@ -38,6 +38,10 @@
   float: left;
   width: 50%;
 }
+.column4 {
+  float: left;
+  width: 25%;
+}
 
 
 .row:after {
